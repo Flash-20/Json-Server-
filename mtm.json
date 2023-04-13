@@ -1,7 +1,22 @@
 [
-  {
-    "sensorNumber": 10,
-    "sensorName": "Wrench / spanner sets",
-    "sensorDescription": "The wrench or spanner is an important automotive tool. It helps remove bolts or nuts with ease, and small and long handle spanners provide flexibility when you need to operate in tight or narrow spaces."
-  }
+    {
+        "sensorNumber": 10,
+        "sensorName": "ABS Sensors",
+        "sensorDescription": "An Anti-lock Braking System (ABS) is an improved braking system usually found in more modern automobiles."
+    },
+    {
+        "sensorNumber": 20,
+        "sensorName": "Air-flow sensor",
+        "sensorDescription": "It measures the density and volume of the air entering the combustion chamber."
+    },
+    {
+        "sensorNumber": 30,
+        "sensorName": "Engine speed sensor",
+        "sensorDescription": "It monitors the spinning speed and position of the crankshaft."
+    },
+    {
+        "sensorNumber": 40,
+        "sensorName": "Fuel temperature sensor",
+        "sensorDescription": "It monitors the temperature of the fuel entering the engine."
+    }
 ]
