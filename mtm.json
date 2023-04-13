@@ -1,4 +1,3 @@
-{"sensor":
 [
     {
         "sensorNumber": 10,
@@ -20,24 +19,4 @@
         "sensorName": "Fuel temperature sensor",
         "sensorDescription": "It monitors the temperature of the fuel entering the engine."
     }
-    {
-        "sensorNumber": 50,
-        "sensorName": "ABS Sensors",
-        "sensorDescription": "An Anti-lock Braking System (ABS) is an improved braking system usually found in more modern automobiles."
-    },
-    {
-        "sensorNumber": 60,
-        "sensorName": "Air-flow sensor",
-        "sensorDescription": "It measures the density and volume of the air entering the combustion chamber."
-    },
-    {
-        "sensorNumber": 70,
-        "sensorName": "Engine speed sensor",
-        "sensorDescription": "It monitors the spinning speed and position of the crankshaft."
-    },
-    {
-        "sensorNumber": 80,
-        "sensorName": "Fuel temperature sensor",
-        "sensorDescription": "It monitors the temperature of the fuel entering the engine."
-    }
-]}
+]
