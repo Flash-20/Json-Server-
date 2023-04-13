@@ -18,5 +18,10 @@
         "sensorNumber": 40,
         "sensorName": "Fuel temperature sensor",
         "sensorDescription": "It monitors the temperature of the fuel entering the engine."
+    },
+    {
+        "sensorNumber": 50,
+        "sensorName": "ok",
+        "sensorDescription": "oooooooooookkkkkkkkkkkkkkk"
     }
 ]
